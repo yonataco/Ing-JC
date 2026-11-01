@@ -1,0 +1,17 @@
+================================================================
+180-DAY IDENTITY PROFILE: INFRASTRUCTURE & AUTOMATION ENGINEER
+================================================================
+
+[CORE IDENTITY]
+* Technical Archetype: Systems, Network, and Automation Engineer building production-ready solutions in Linux, Python, and networking.
+* Execution Mindset: Zero passive learning. Every focus block translates into working scripts, configured labs, or Git commits.
+* Physiology First: Heavy strength training, timely nutrition, and active recovery sustain technical performance.
+* Frictionless Environment: SSH lab ready, dark mode active, notifications silenced.
+
+[3 DAILY NON-NEGOTIABLES - 100 AVERAGE DAYS RULE]
+1. Daily Proof of Work (Min 25m): Write a Bash/Python script, configure a lab, or push a commit.
+2. Biological Reset: Complete 10-15 minutes of meditation and a daily outdoor walk or gym session.
+3. Fuel & Shutdown: Respect meal times and shut down study screens 45 minutes before sleep.
+
+[BI-WEEKLY AUDIT]
+* Review commit history and energy levels every two Sundays (Target: 10/14 days completed).
