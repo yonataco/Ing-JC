@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Define paths in English
+TARGET_DIR="$HOME/ing-jc/productivity_system"
+DOC_FILE="$TARGET_DIR/blueprint_180_days.txt"
+LOG_FILE="$TARGET_DIR/system_audit.log"
+
+# 1. Create directory structure
+mkdir -p "$TARGET_DIR"
+
+# 2. Generate the 180-day profile
+cat << 'EOF' > "$DOC_FILE"
+================================================================
+180-DAY IDENTITY PROFILE: INFRASTRUCTURE & AUTOMATION ENGINEER
+================================================================
+
+[CORE IDENTITY]
+* Technical Archetype: Systems, Network, and Automation Engineer building production-ready solutions in Linux, Python, and networking.
+* Execution Mindset: Zero passive learning. Every focus block translates into working scripts, configured labs, or Git commits.
+* Physiology First: Heavy strength training, timely nutrition, and active recovery sustain technical performance.
+* Frictionless Environment: SSH lab ready, dark mode active, notifications silenced.
+
+[3 DAILY NON-NEGOTIABLES - 100 AVERAGE DAYS RULE]
+1. Daily Proof of Work (Min 25m): Write a Bash/Python script, configure a lab, or push a commit.
+2. Biological Reset: Complete 10-15 minutes of meditation and a daily outdoor walk or gym session.
+3. Fuel & Shutdown: Respect meal times and shut down study screens 45 minutes before sleep.
+
+[BI-WEEKLY AUDIT]
+* Review commit history and energy levels every two Sundays (Target: 10/14 days completed).
+EOF
+
+# 3. Apply strict permissions (Owner read/write only: rw-------)
+chmod 600 "$DOC_FILE"
+
+# 4. Log the deployment and set read-only for group (rw-r-----)
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] Blueprint deployed and secured." >> "$LOG_FILE"
+chmod 640 "$LOG_FILE"
+
+# 5. Verify output and permissions
+ls -la "$TARGET_DIR"0
+
