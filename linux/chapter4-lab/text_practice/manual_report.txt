@@ -1,0 +1,10 @@
+echo "Linea 1: Inicio de sistema." > registro.log
+cat registro.log
+echo "ERROR Reloading System." > registro.log
+cat registro.log
+echo "Línea 2: Verificando permisos." >> registro.log
+echo "Línea 3: Todo funciona correctamente." >> registro.log
+cat registro.log
+ls -l >> Listed_files.txt
+cat Listed_files.txt
+echo "This is printed on the screen and saved on file." | tee double_exit.txt

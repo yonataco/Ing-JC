@@ -1,0 +1,4 @@
+total 8
+-rw-r--r--. 1 jonathanc jonathanc   0 Nov  7 00:59 Listed_files.txt
+-rwxr-xr-x. 1 jonathanc jonathanc 389 Nov  7 00:58 manual_report.txt
+-rw-r--r--. 1 jonathanc jonathanc  95 Nov  7 00:59 registro.log
