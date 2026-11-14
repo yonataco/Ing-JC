@@ -1,0 +1,13 @@
+total 16
+drwxr-xr-x. 1 jonathanc jonathanc    0 Nov  6 23:15 auditoria_financiera
+drwxr-xr-x. 1 jonathanc jonathanc   38 Nov  6 18:41 chmod_sandbox
+drwxr-xr-x. 1 jonathanc jonathanc  124 Nov  6 20:44 chown_chgrp
+-rwxr-xr-x. 1 jonathanc jonathanc 1435 Nov  6 16:39 practice.sh
+drwxrwx---+ 1 jonathanc jonathanc    0 Nov  6 23:49 proyecto_final_seguro
+-rwxr-xr-x. 1 jonathanc jonathanc  516 Nov  7 14:00 redirect_auditor.sh
+drwxr-xr-x. 1 jonathanc jonathanc  232 Nov  7 14:24 redirect_labs
+-rwxrwx--x. 1 jonathanc jonathanc  914 Nov  6 23:46 secure_deployment.sh
+drwxr-x---+ 1 jonathanc root       168 Nov  6 23:06 secure_project
+drwxr-xr-x. 1 jonathanc jonathanc   22 Nov  7 00:23 seinfeld
+drwxr-xr-x. 1 jonathanc jonathanc  292 Nov  7 01:21 text_practice
+-rwxr-xr-x. 1 jonathanc jonathanc  720 Nov  6 23:11 umask_demostrator.sh

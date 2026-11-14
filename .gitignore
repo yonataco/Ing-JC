@@ -1,3 +1,5 @@
 *.env
 *.conf
 *.ovpn
+*.tar.gz
+*.tar

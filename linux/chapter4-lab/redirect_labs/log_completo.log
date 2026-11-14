@@ -1,0 +1,2 @@
+./prueba_logs.sh: line 1: syntax error near unexpected token `('
+./prueba_logs.sh: line 1: `=== Process executed succesfully(Channel 1)==='

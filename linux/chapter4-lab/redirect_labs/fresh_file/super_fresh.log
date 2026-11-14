@@ -1,0 +1,38 @@
+Mon Nov  9 07:36:58 PM IST 2026
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  475G   22G  450G   5% /
+devtmpfs        9.6G     0  9.6G   0% /dev
+tmpfs           9.7G   96K  9.7G   1% /dev/shm
+efivarfs        128K   54K   70K  44% /sys/firmware/efi/efivars
+tmpfs           3.9G  2.2M  3.9G   1% /run
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p3  475G   22G  450G   5% /home
+/dev/nvme0n1p2  2.0G  441M  1.4G  25% /boot
+tmpfs           9.7G     0  9.7G   0% /tmp
+/dev/nvme0n1p1  599M   21M  579M   4% /boot/efi
+tmpfs           2.0G  4.1M  2.0G   1% /run/user/1000
+    PID TTY          TIME CMD
+   5009 pts/0    00:00:00 bash
+  15946 pts/0    00:00:00 ps
+Mon Nov  9 07:36:58 PM IST 2026
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  475G   22G  450G   5% /
+devtmpfs        9.6G     0  9.6G   0% /dev
+tmpfs           9.7G   96K  9.7G   1% /dev/shm
+efivarfs        128K   54K   70K  44% /sys/firmware/efi/efivars
+tmpfs           3.9G  2.2M  3.9G   1% /run
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p3  475G   22G  450G   5% /home
+/dev/nvme0n1p2  2.0G  441M  1.4G  25% /boot
+tmpfs           9.7G     0  9.7G   0% /tmp
+/dev/nvme0n1p1  599M   21M  579M   4% /boot/efi
+tmpfs           2.0G  4.1M  2.0G   1% /run/user/1000
+    PID TTY          TIME CMD
+   5009 pts/0    00:00:00 bash
+  15946 pts/0    00:00:00 ps
+total 12
+-rw-r--r--. 1 jonathanc jonathanc   58 Nov  9 19:39 error_class.log
+-rw-r--r--. 1 jonathanc jonathanc   16 Nov  9 19:48 fiel_logs.log
+-rw-r--r--. 1 jonathanc jonathanc 1600 Nov  9 19:44 super_fresh.log
