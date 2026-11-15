@@ -1,0 +1,4 @@
+=== REPORTE DE INCIDENTE WEB ===
+Total de IPs que causaron error:
+3 ips_sospechosas.txt
+================================
