@@ -3,3 +3,10 @@
 *.ovpn
 *.tar.gz
 *.tar
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
